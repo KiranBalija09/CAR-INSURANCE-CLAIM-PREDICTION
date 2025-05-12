@@ -11,3 +11,6 @@ git branch -dr If you want to remove the local tracking copy of the remote branc
 EG:
 git branch -dr origin/main
 git branch -dr origin/testing
+git branch          # shows local branches
+git branch -r       # shows remote branches
+git branch -a       # shows both
