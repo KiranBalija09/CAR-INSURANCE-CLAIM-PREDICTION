@@ -6,3 +6,8 @@ git add . --will addd ll the files to branches
 git add specific file ---will add only specific file only
 git fetch orgin  --fetch all remote branches 
 git merge orgin/main --mergin main branch to current branch 
+
+git branch -dr If you want to remove the local tracking copy of the remote branch but not touch the actual branch on GitHub:
+EG:
+git branch -dr origin/main
+git branch -dr origin/testing
