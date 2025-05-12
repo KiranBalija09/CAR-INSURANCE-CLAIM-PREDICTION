@@ -2,7 +2,7 @@ This is for testing purpose only ignore this file as of now  there are small chn
 
 yeah i have gone through those all small chnage and made accordingly
 
-now this is need to be saced in testing branch only 
+now this is need to be saved in testing branch only 
 
 
 thank you.
