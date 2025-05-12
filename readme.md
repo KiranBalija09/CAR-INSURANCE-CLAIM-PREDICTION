@@ -9,8 +9,6 @@ always rember ot keep this in track
 for sure it will be tracked only dont worry.
 
 
-so have done some of the changes to the new testing process go through it 
-
 thank you.
 
 kiran balija
